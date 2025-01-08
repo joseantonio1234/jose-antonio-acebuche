@@ -14,6 +14,7 @@ Performed quality assurance testing to ensure optimal reliability and functional
 Technologies and Tools Used:
 
 Hardware: Kiosks, card dispensers, payment stations, barriers
+
 Software: SQL Server, parking system applications
 Tools: Network analyzers, diagnostic equipment, and system monitoring tools
 Achievements:
