@@ -55,9 +55,9 @@ Improved query performance, enhancing system response times.
 
 
 
-3. Peripheral and Network Support
+3.Pos terminal, Peripheral and Network Support
 Description:
-Provided on-site support for various peripherals (e.g., POS systems, printers, kiosks) and managed network troubleshooting tasks to ensure smooth operations of the parking management systems.
+Provided on-site support for various peripherals (e.g., POS systems, printers, kiosks,rfid ACL) and managed network troubleshooting tasks to ensure smooth operations of the parking management systems.
 
 Responsibilities:
 
