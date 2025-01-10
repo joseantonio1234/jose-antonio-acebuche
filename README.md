@@ -1,70 +1,80 @@
+ **My Profile**
 
-Jose Antonio Acebuche - IT Support Professional
-Location: Alabang Town Center
-Role: Technical Support Staff
+Results-driven **Technical Support Staff** with extensive experience in managing and supporting parking systems and IT infrastructure. Proficient in providing **Level 1, Level 2, and Level 3 technical support** with expertise in SQL Server database administration, network troubleshooting, hardware maintenance, and system integration. Skilled at collaborating with stakeholders to deliver efficient and customer-focused technical solutions.
 
-About Me
-A dedicated IT support professional with extensive experience in system management, technical troubleshooting, and SQL Server administration, with a strong background in supporting parking systems. I have worked at Alabang Town Center, providing hands-on support for kiosks, barriers, POS systems, and other peripheral equipment. I specialize in SQL Server management and have successfully led and completed automation projects aimed at enhancing the customer experience and operational efficiency.
+---
 
-Skills & Expertise
-SQL Server Management: Configuration, backup, troubleshooting, performance tuning, and database administration.
-Technical Support: Desktop troubleshooting, network management, system installations, and hardware repairs.
-Parking Management Systems: Supporting kiosk systems, barriers, POS terminals, and related peripherals.
-Project Management: Lead and contributed to automation projects, improving system integration and user experience.
-Network Troubleshooting: Diagnosing and resolving network connectivity issues.
-POS Systems and Peripherals: Support for various point-of-sale systems, ensuring smooth transactions and operations.
-CCTV Systems: Installation, configuration, and troubleshooting of surveillance equipment.
+#### **Professional Experience**
+
+**Technical Support Staff**\
+**Chase Technologies (Outsourced to Alabang Town Center)**\
+**Duration:** 1 year and 1 month
+
+**Responsibilities:**
+
+- Delivered multi-level technical support for parking systems, ensuring high uptime and operational reliability.
+- Managed and maintained the **SQL Server database** for parking management systems, ensuring data accuracy and seamless backend operations.
+- Provided hardware and software support for:
+  - **POS systems**
+  - **Automated kiosks**
+  - **Entrance/exit barriers**
+  - **CCTV systems**
+  - **Printers and peripherals**
+- Troubleshot and resolved desktop, network, and connectivity issues.
+- Worked closely with the **ATC Parking Manager** to prioritize and resolve technical issues.
+- Implemented system updates and performed regular maintenance to ensure optimal performance.
+
+---
+
+#### **Key Projects**
+
+**1. Parking Automation Project – P1**
+
+- **Objective:** Transitioned parking operations from manual ticketing to a fully automated system at Parking 1.
+- **Role:** Technical Support Specialist
+- **Key Contributions:**
+  - Installed and configured automated kiosks, card dispensers, entrance/exit barriers, and payment stations.
+  - Conducted system testing and troubleshooting to ensure reliable performance.
+  - Enhanced payment efficiency and customer satisfaction by reducing manual processes.
+
+**2. Parking Automation Project – P4**
+
+- **Objective:** Implemented a fully automated parking system at Parking 4.
+- **Role:** Technical Support Specialist
+- **Key Contributions:**
+  - Set up hardware components and integrated them with the SQL Server database.
+  - Troubleshot and resolved technical issues during implementation.
+  - Optimized workflows and reduced operational inefficiencies.
+
+**3. Parking Automation Project – P6**
+
+- **Objective:** Automated parking processes at Parking 6 to streamline operations.
+- **Role:** Technical Support Specialist
+- **Key Contributions:**
+  - Configured entrance and exit systems with barriers and payment stations.
+  - Collaborated with stakeholders to ensure successful system deployment.
+  - Improved the customer experience by reducing queues and wait times.
+
+---
+
+#### **Technical Skills**
+
+- **Database Management:** SQL Server administration, backup/recovery, and performance optimization.
+- **System Troubleshooting:** Expertise in resolving hardware/software issues for POS systems, kiosks, CCTV, and peripherals.
+- **Networking:** LAN/WAN troubleshooting, device configuration, and network diagnostics.
+- **Hardware Installation:** Skilled in setting up automated kiosks, barriers, and payment stations.
+- **Operating Systems:** Windows and Linux administration.
+- **Tools:** Network analyzers, diagnostic equipment, and system monitoring tools.
+
+---
+
+#### **Achievements**
+
+- Spearheaded the successful implementation of **three parking automation projects** (P1, P4, P6) at Alabang Town Center, enhancing operational efficiency and customer satisfaction.
+- Delivered proactive support that minimized system downtime and improved operational workflows.
+- Commended by the ATC Parking Manager for technical expertise, problem-solving skills, and professionalism.
+
+---
 
 
-Key Projects at Alabang Town Center
 
-
-
-1. Parking Automation Project (P1, P4, P6)
-Description:
-I led the successful implementation of parking automation at Alabang Town Center, including kiosks, barriers, and a central payment system. This project aimed to streamline operations, reduce manual intervention, and enhance the customer experience by improving payment efficiency.
-
-Responsibilities:
-
-Designed and implemented kiosk systems for seamless customer interaction.
-Integrated barrier systems for automated vehicle access.
-Configured central payment systems to synchronize with other components.
-Managed troubleshooting and support for any issues arising during and after deployment.
-Results:
-
-Enhanced customer experience by reducing wait times.
-Increased payment system efficiency.
-Reduced manual labor and improved operational efficiency.
-
-
-
-2. SQL Server Management & Support
-Description:
-Managed and maintained SQL Server databases for the parking systems, ensuring data integrity and system availability.
-
-Responsibilities:
-
-Performed regular database backups and recovery processes.
-Ensured optimal database performance through tuning and indexing.
-Handled user permissions and security within the database.
-Resolved issues related to database connectivity and query performance.
-Results:
-
-Achieved high system uptime with minimal database-related disruptions.
-Improved query performance, enhancing system response times.
-
-
-
-3.Pos terminal, Peripheral and Network Support
-Description:
-Provided on-site support for various peripherals (e.g., POS systems, printers, kiosks,rfid ACL) and managed network troubleshooting tasks to ensure smooth operations of the parking management systems.
-
-Responsibilities:
-
-Diagnosed and resolved hardware issues related to POS systems, printers, and kiosks.
-Managed network-related issues such as connectivity problems and network outages.
-Coordinated with other departments for hardware installation and configuration.
-Results:
-
-Ensured that all peripheral devices were consistently operational.
-Improved network stability, reducing downtime for critical systems.
