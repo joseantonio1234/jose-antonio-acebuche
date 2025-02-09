@@ -61,7 +61,7 @@ Results-driven **Technical Support Staff** with extensive experience in managing
 
 - **Database Management:** SQL Server administration, backup/recovery, and performance optimization.
 - **System Troubleshooting:** Expertise in resolving hardware/software issues for POS systems, kiosks, CCTV, and peripherals.
-- **Networking:** LAN/WAN troubleshooting, device configuration, and network diagnostics.
+- **Networking:** LAN troubleshooting, device configuration, and network diagnostics.
 - **Hardware Installation:** Skilled in setting up automated kiosks, barriers, and payment stations.
 - **Operating Systems:** Windows and Linux administration.
 - **Tools:** Network analyzers, diagnostic equipment, and system monitoring tools.
