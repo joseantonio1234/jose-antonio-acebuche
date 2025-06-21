@@ -6,9 +6,9 @@ Results-driven **Technical Support Staff** with extensive experience in managing
 
 #### **Professional Experience**
 
-**Technical Support Staff**\
-**Chase Technologies (Outsourced to Alabang Town Center)**\
-**Duration:** 1 year and 1 month
+**IT Specialist**\
+**Chase Technologies (Onsite Support to Alabang Town Center)**\
+**Duration:** 1 year and 6 month
 
 **Responsibilities:**
 
